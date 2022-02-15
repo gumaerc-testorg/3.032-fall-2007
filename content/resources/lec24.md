@@ -3,8 +3,13 @@ content_type: resource
 description: Lecture slides on plasticity at surfaces, hardness testing, estimates
   of yield strength, instrumented indentation, and estimates of elastic modulus and
   yield strength.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-032-mechanical-behavior-of-materials-fall-2007/75ecba5281f60c9b957a8b42d4823d92_lec24.pdf
+file: /media/courses/3-032-mechanical-behavior-of-materials-fall-2007/75ecba5281f60c9b957a8b42d4823d92_lec24.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec24.pdf
 uid: 75ecba52-81f6-0c9b-957a-8b42d4823d92

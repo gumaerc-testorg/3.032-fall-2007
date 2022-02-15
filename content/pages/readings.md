@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 481a67fd-4101-5c3b-ae2a-a7a033943d26
 ---
@@ -126,7 +129,7 @@ Bedford & Liechti, pp. 221-227
 {{< tdopen >}}
 Stress transformations
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Bedford & Liechti, pp. 187-220
 {{< tdclose >}}
 
@@ -501,7 +504,7 @@ Fracture in amorphous materials
 {{< tdopen >}}
 Fatigue
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Meyers & Chawla, pp. 592-596, 602-615
 {{< tdclose >}}
 
