@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Practice problem set from Fall 2006.
-file: /media/courses/3-032-mechanical-behavior-of-materials-fall-2007/f49e769c1d91bd032c7676301dd14f09_practice2_06.pdf
+file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/f49e769c1d91bd032c7676301dd14f09_practice2_06.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
@@ -13,3 +13,5 @@ resourcetype: Document
 title: practice2_06.pdf
 uid: f49e769c-1d91-bd03-2c76-76301dd14f09
 ---
+Practice problem set from Fall 2006.
+

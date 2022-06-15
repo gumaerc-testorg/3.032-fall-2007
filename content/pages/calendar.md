@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, exams, labs, and
+  assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

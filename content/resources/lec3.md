@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on deformation under force, beam bending, and end-loaded
   cantilevers.
-file: /media/courses/3-032-mechanical-behavior-of-materials-fall-2007/222911da292c25b77b09b47da533315c_lec3.pdf
+file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/222911da292c25b77b09b47da533315c_lec3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: lec3.pdf
 uid: 222911da-292c-25b7-7b09-b47da533315c
 ---
+Lecture slides on deformation under force, beam bending, and end-loaded cantilevers.
+
