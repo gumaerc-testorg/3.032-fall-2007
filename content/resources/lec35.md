@@ -6,6 +6,7 @@ file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/fd38c2d04b3f7208
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec35.pdf
 uid: fd38c2d0-4b3f-7208-a22f-1e750341a8fe
 ---
 Lecture slides on fatigue, how fatigue fracture initiates, characteristic fatigue fracture surfaces, and how to stop fatigue fracture.
-

@@ -5,6 +5,7 @@ file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/f49e769c1d91bd03
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: practice2_06.pdf
 uid: f49e769c-1d91-bd03-2c76-76301dd14f09
 ---
 Practice problem set from Fall 2006.
-

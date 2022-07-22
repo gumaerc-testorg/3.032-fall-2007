@@ -6,6 +6,7 @@ file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/9a1ef2fb1852adee
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec5.pdf
 uid: 9a1ef2fb-1852-adee-f982-ab21370f6e73
 ---
 Lecture notes on strain and stress, and choosing a cross-section for the moment of inertia.
-

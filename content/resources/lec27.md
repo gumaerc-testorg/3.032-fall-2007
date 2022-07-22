@@ -5,6 +5,7 @@ file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/4f630ca5057fffa5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec27.pdf
 uid: 4f630ca5-057f-ffa5-fc8d-b02180e03638
 ---
 Lecture slides on time-dependent plasticity and examples of creep failure.
-

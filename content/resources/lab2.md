@@ -6,6 +6,7 @@ file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/316bd7026fb71765
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab2.pdf
 uid: 316bd702-6fb7-1765-1120-e800861874aa
 ---
 Laboratory Experiment 2 on Origins of Elasticity and Plasticity: The Bubble Raft.
-
