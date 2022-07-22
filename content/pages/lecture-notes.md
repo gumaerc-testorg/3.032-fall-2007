@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and associated lecture
+  slides.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: e6ba1750-995a-aef5-5a8f-dddf695049e2
 ---
@@ -30,7 +35,7 @@ Lecture Notes
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec1))
+({{% resource_link ee4f4c37-0bbb-3d2a-16f0-fbfd80ebe3d0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +47,7 @@ Introduction
 Force distributions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec2))
+({{% resource_link b08b5f3d-bd3a-c755-f903-5c3adae6bd43 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +59,7 @@ Force distributions
 Deformation under force
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec3))
+({{% resource_link 222911da-292c-25b7-7b09-b47da533315c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +83,7 @@ Stress distributions in materials
 Strain and stress
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec5))
+({{% resource_link 9a1ef2fb-1852-adee-f982-ab21370f6e73 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +107,7 @@ Pressure vessels
 Stress transformations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec7))
+({{% resource_link 6e90475e-58ce-6975-b034-dab5f48cc2a2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +179,7 @@ Linear elasticity
 Linear elasticity (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec13))
+({{% resource_link 280e4e7a-6063-4a54-a4a9-4650acce94f7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +191,7 @@ Linear elasticity (cont.)
 Superelasticity
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec14))
+({{% resource_link a862820c-96d6-6771-e432-cac60d5c9a02 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -222,7 +227,7 @@ Viscoelasticity
 Rubber elasticity
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec17))
+({{% resource_link fd5e7015-33cf-6bf8-8a18-39bc2656d5d7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -258,7 +263,7 @@ Plasticity in crystals
 Plasticity in crystals (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec20))
+({{% resource_link 1bd63387-3707-143d-7607-ffb3b6d08fb6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -270,7 +275,7 @@ Plasticity in crystals (cont.)
 Plasticity in amorphous materials
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec21))
+({{% resource_link 4d447a73-d86c-a349-823b-d6eeace9c73b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -306,7 +311,7 @@ Controlling plasticity onset (cont.)
 Plasticity at surfaces
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec24))
+({{% resource_link 75ecba52-81f6-0c9b-957a-8b42d4823d92 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -342,7 +347,7 @@ Time-dependent plasticity
 Time-dependent plasticity (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec27))
+({{% resource_link 4f630ca5-057f-ffa5-fc8d-b02180e03638 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -402,7 +407,7 @@ Continuum fracture (cont.)
 Fracture in crystals
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec32))
+({{% resource_link 72b74c78-fad5-0001-57a6-b8d95b55e413 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -438,7 +443,7 @@ Fracture in amorphous materials
 Fatigue
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec35))
+({{% resource_link fd38c2d0-4b3f-7208-a22f-1e750341a8fe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -450,7 +455,7 @@ Fatigue
 Fatigue (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec36))
+({{% resource_link 74746307-d501-77e1-139b-ef34a7e82406 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -462,7 +467,7 @@ Fatigue (cont.)
 Fatigue (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec37))
+({{% resource_link ce3c6c9c-aadf-726a-41cc-d0da5ddb693b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course overview, and information about
+  course meeting times, laboratory experiments, textbooks, grading, and academic honesty.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 6b8ab3e2-5fc9-3d79-af9f-63550712b0be
 ---
