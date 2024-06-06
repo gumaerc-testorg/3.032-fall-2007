@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture slides on rubber elasticity.
 file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/fd5e701533cf6bf88a1839bc2656d5d7_lec17.pdf
+file_size: 90080
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
