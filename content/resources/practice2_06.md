@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Practice problem set from Fall 2006.
-file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/f49e769c1d91bd032c7676301dd14f09_practice2_06.pdf
+file: /ol-ocw-studio-app/courses/3-032-mechanical-behavior-of-materials-fall-2007/f49e769c1d91bd032c7676301dd14f09_practice2_06.pdf
 file_size: 91486
 file_type: application/pdf
 learning_resource_types:
