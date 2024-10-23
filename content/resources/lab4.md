@@ -2,7 +2,7 @@
 content_type: resource
 description: Laboratory Experiment 4 on Structural Origins of the Mechanical Properties
   of Materials.
-file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/523141c4a4ef26e0280caf99cd0cdd61_lab4.pdf
+file: /ol-ocw-studio-app/courses/3-032-mechanical-behavior-of-materials-fall-2007/523141c4a4ef26e0280caf99cd0cdd61_lab4.pdf
 file_size: 104371
 file_type: application/pdf
 learning_resource_types:
