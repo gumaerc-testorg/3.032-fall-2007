@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on stress and strain transformations, finding stress on
   a material plane that differs from the one on which stress is known, and why it
   is easier to remember Mohr?s circle.
-file: /ol-ocw-studio-app/courses/3-032-mechanical-behavior-of-materials-fall-2007/6e90475e58ce6975b034dab5f48cc2a2_lec7.pdf
+file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/6e90475e58ce6975b034dab5f48cc2a2_lec7.pdf
 file_size: 78258
 file_type: application/pdf
 learning_resource_types:
