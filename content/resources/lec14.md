@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on superelasticity and fluid shear viscosity as measured
   by the parallel plate Couette experiment.
-file: /ol-ocw-studio-app/courses/3-032-mechanical-behavior-of-materials-fall-2007/a862820c96d66771e432cac60d5c9a02_lec14.pdf
+file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/a862820c96d66771e432cac60d5c9a02_lec14.pdf
 file_size: 37525
 file_type: application/pdf
 learning_resource_types:
