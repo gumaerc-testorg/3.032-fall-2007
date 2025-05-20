@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Laboratory Experiment 2 on Origins of Elasticity and Plasticity: The
   Bubble Raft.'
-file: /ol-ocw-studio-app/courses/3-032-mechanical-behavior-of-materials-fall-2007/316bd7026fb717651120e800861874aa_lab2.pdf
+file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/316bd7026fb717651120e800861874aa_lab2.pdf
 file_size: 514057
 file_type: application/pdf
 learning_resource_types:
