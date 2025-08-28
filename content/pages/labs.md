@@ -4,7 +4,7 @@ description: This section presents the four labs that occur during the semester.
   safety reasons, the lab procedures are not included; the instructors may be contacted
   for further information.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 21a01e4c-f446-207f-8deb-fcb534708748

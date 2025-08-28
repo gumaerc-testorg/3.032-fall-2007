@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Laboratory Experiment 1 on Stress Transformations and Pressure Vessels.
-file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/00f1469de2860265f50d50b65f41a980_lab1.pdf
+file: /ol-ocw-studio-app/courses/3-032-mechanical-behavior-of-materials-fall-2007/00f1469de2860265f50d50b65f41a980_lab1.pdf
 file_size: 106556
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
